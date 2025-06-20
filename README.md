@@ -40,7 +40,7 @@ It showcases modular component design, page-based routing, and scalable UI archi
 Visit http://localhost:8080 in your browser.
 
 
-## Screenshots
+## Screenshot
 
 🏠 Home Page
 ![Home Page](./assets/homepage.png)
